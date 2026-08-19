@@ -1,0 +1,50 @@
+.admin-background{
+    background: rgb(80,140,155);  /* fallback for old browsers */
+    background: rgb(80,140,155);
+    background: linear-gradient(90deg, rgba(80,140,155,1) 21%, rgba(32,30,67,1) 92%);
+}
+
+.mahasiswa-background{
+    background: rgb(137,207,243);  /* fallback for old browsers */
+    background: rgb(137,207,243);
+    background: linear-gradient(90deg, rgba(137,207,243,1) 25%, rgba(0,169,255,1) 73%);
+}
+
+.ketua-lab-background{
+    background: rgb(18,202,214);  /* fallback for old browsers */
+    background: rgb(18,202,214);
+    background: linear-gradient(90deg, rgba(18,202,214,1) 27%, rgba(15,171,188,1) 72%);
+}    
+
+.dosen-background{
+    background: rgb(58,190,249);  /* fallback for old browsers */
+    background: rgb(58,190,249);
+    background: linear-gradient(90deg, rgba(58,190,249,1) 52%, rgba(5,12,156,1) 100%);
+}
+
+.aslab-background{
+    background: rgb(217,175,93);  /* fallback for old browsers */
+    background: rgb(217,175,93);
+    background: linear-gradient(90deg, rgba(217,175,93,1) 21%, rgba(144,36,36,1) 92%);
+
+}
+
+.sidebar-admin-background{
+    background: rgb(80,140,155);  /* fallback for old browsers */
+}
+
+.sidebar-mahasiswa-background{
+    background: rgb(137,207,243);  /* fallback for old browsers */
+}
+
+.sidebar-ketua-lab-background{
+    background: rgb(18,202,214); /* fallback for old browsers */
+}    
+
+.sidebar-dosen-background{
+    background: rgb(58,190,249);  /* fallback for old browsers */
+}
+
+.sidebar-aslab-background{
+    background: rgb(217,175,93);   /* fallback for old browsers */
+}

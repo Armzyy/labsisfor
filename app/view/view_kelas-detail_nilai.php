@@ -1,0 +1,3 @@
+<?php 
+downloadnilai();
+showpengumpulantugas();

@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCOND %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+ErrorDocument 404 /labsisfor/404.php

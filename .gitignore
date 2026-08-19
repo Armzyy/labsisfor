@@ -1,0 +1,9 @@
+# Temporary and Upload Files
+asset/data/tmp_upload/*
+!asset/data/tmp_upload/.gitkeep
+
+# IDE / OS generated files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

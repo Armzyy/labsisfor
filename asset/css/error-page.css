@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+
+/* Not Found */
+
+.error404{
+    background: -webkit-linear-gradient(0deg, #17c5ff 10%, #962f64 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    align-content: center;
+    height: 600px;
+}
+
+.error505{
+    background: -webkit-linear-gradient(0deg, #f32013 15%,#ca0b00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    align-content: center;
+    height: 600px;
+}
